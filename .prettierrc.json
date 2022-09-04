@@ -1,0 +1,15 @@
+{
+  "tabWidth": 2,
+  "printWidth": 180,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "arrowParens": "avoid",
+  "semi": true,
+  "svelteSortOrder": "options-styles-scripts-markup",
+  "svelteStrictMode": true,
+  "svelteBracketNewLine": false,
+  "svelteAllowShorthand": true,
+  "svelteIndentScriptAndStyle": true,
+  "pluginSearchDirs": [],
+  "svelte-allow-shorthand": true
+}
